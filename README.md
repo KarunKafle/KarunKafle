@@ -1,4 +1,4 @@
-⚙️ Hi 👋, I'm Karun Kafle
+⚙️ Hi 👋, I'm Karun.
 A passionate Full Stack Developer 
 
 for collaboration or projects
